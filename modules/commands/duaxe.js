@@ -3509,9 +3509,9 @@ module.exports.run = async function ({ event, api, args }) {
     "- skill: Sử dụng kỹ năng\n\n" +
     
     "📱 Liên hệ:\n" +
-    "GitHub: github.com/Kenne400k\n" +
-    "Zalo: zalo.me/0786888655\n" +
-    "Facebook: fb.com/pcoder090",
+    "GitHub: github.com/hotwark1\n" +
+    "Zalo: zalo.me/0763465951\n" +
+    "Facebook: fb.com/anhyeuemnhamlun",
     threadID, messageID
   );
 }

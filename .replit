@@ -6,3 +6,11 @@ channel = "stable-25_05"
 
 [deployment]
 run = ["sh", "-c", "npm start"]
+
+[[ports]]
+localPort = 80
+externalPort = 3000
+
+[[ports]]
+localPort = 2025
+externalPort = 80

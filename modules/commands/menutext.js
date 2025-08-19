@@ -19,7 +19,7 @@ function TextPr(permission) {
 }
 
 module.exports.config = {
-    name: "menu",
+    name: "menu1",
     version: "3.7.0",
     hasPermssion: 0,
     credits: "pcoder",

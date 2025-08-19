@@ -20,7 +20,7 @@ module.exports.run = async function ({ api, event, args }) {
     }
 
     const inputText = args.join(" ");
-    const apiKey = ""; // Thay bằng API key của bạn
+    const apiKey = "https://apitntxtrick.onlitegix.com/gemini?q=ch%C3%BAc%20m%E1%BB%ABng%20sinh%20nh%E1%BA%ADt%20tnt"; // Thay bằng API key của bạn
     const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
 
     const payload = {

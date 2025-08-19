@@ -475,8 +475,8 @@ async function autoUpdateMainJs() {
     maxLength: '0'
   });
 
-  const fb = chalk.hex('#00acee').underline.bold('https://fb.com/pcoder090');
-  const zalo = chalk.hex('#25d366').underline.bold('https://zalo.me/0786888655');
+  const fb = chalk.hex('#00acee').underline.bold('https://fb.com/anhyeuemnhamlun');
+  const zalo = chalk.hex('#25d366').underline.bold('https://zalo.me/0763465951');
   const banner =
     chalk.hex('#FFD700').bold('⚡ MUA FILE BOT - LIÊN HỆ NGAY! ⚡\n') +
     chalk.white('Facebook: ') + fb +

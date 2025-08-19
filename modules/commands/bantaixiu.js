@@ -37,12 +37,12 @@ let units = {
   'g': 36,
 };
 let dice_photos = [
-  /*"https://i.imgur.com/xtdfYkP.jpg",
+  "https://i.imgur.com/xtdfYkP.jpg",
   "https://i.imgur.com/UwcX6bB.jpg",
   "https://i.imgur.com/WdHxoVb.jpg",
   "https://i.imgur.com/aOQJ4uT.jpg",
   "https://i.imgur.com/iAARfLh.jpg",
-  "https://i.imgur.com/vCncmlu.jpg"*/
+  "https://i.imgur.com/vCncmlu.jpg",
   "https://i.imgur.com/Q3QfE4t.jpeg",
   "https://i.imgur.com/M3juJEW.jpeg",
   "https://i.imgur.com/Tn6tZeG.jpeg",

@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "txglobal",
+  name: "tx",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "Niio-team (Vtuan)",

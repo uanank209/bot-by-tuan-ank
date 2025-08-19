@@ -1,7 +1,7 @@
 {
-  "name": "LunarKrystal",
+  "name": "Tuấn Ank",
   "version": "4.5.0",
-  "description": "Developed by LunarKrystal",
+  "description": "Developed by Tuấn Ank",
   "main": "mirai.js",
   "scripts": {
     "start": "node index",
